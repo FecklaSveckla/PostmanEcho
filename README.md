@@ -1,3 +1,5 @@
 # TestingApiAndCi
-Домашнее задание к занятию «1.2. Тестирование API, CI»
-[![Build status](https://ci.appveyor.com/api/projects/status/o03j1i7ofqrh1c5c?svg=true)](https://ci.appveyor.com/project/FecklaSveckla/testingapiandci)
+
+Задача №3: Postman Echo
+
+В этой задаче мы сэмулируем ситуацию, в которой SUT уже запущен, а мы из теста просто обращаемся к нему.
